@@ -1,0 +1,50 @@
+.project-card {
+
+  padding: 2rem;
+  height: 100%;
+  display: flex;
+
+
+  .container {
+    border: solid black 5px;
+    display: flex;
+    width: 90%;
+
+    .description {
+      display: flex;
+      margin: 1rem;
+    }
+  
+    img {
+      height: 20rem;
+      width: 45;
+      padding: 1rem;
+      }
+  }
+
+}
+
+.left {
+  flex-direction: row;
+  
+  .container {
+    border-radius: 2rem 0 0 2rem;
+    img {
+      margin-left: auto;
+   }
+  }
+ 
+}
+
+.right {
+  flex-direction: row-reverse;
+
+  .container {
+    border-radius: 0 2rem 2rem 0;
+    flex-direction: row-reverse;
+    img {
+      margin-right: auto
+    }
+  }
+  
+}

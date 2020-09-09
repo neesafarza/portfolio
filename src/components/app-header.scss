@@ -1,0 +1,63 @@
+$header-height: 17rem;
+
+.app-header {
+  background-color: black;
+    color: white;
+    padding: 1rem;
+  .upper-header {
+    display: flex;
+    flex-direction: row;
+  
+  
+    .profile-picture{
+      img {
+        height: $header-height;
+        border-radius: 50%;
+      }
+      margin: 3rem 1rem 0 0.5rem;
+    }
+  
+    .description {
+      margin: 1rem;
+      h1 {
+        font-size: 3.5rem;
+        letter-spacing: 0.5rem;
+      }
+      h1:hover {
+        color: hotpink;
+      }
+  
+      h3 {
+        text-align: justify;
+        line-height: 2rem;
+      }
+  
+      border-bottom: 1px solid white;;
+    }
+  }
+
+  .links-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    a {
+      margin: 1rem;
+      background-color: transparent;
+      cursor: pointer;
+      color: white;
+      border: none;
+      display: inline-flex;
+      flex-direction: row;
+      text-decoration: none;
+      span {
+        margin: 0.3rem 0.5rem;
+        flex: 1;
+      }
+    }
+    a:hover {
+      text-decoration: underline;
+      color: hotpink;
+    }
+  }
+}
