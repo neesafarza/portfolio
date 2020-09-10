@@ -16,10 +16,13 @@ const AboutMe = () => {
           ecosystem and always have a passion for creating and problem solving.
           I am a fast learner with a can do attitude who enjoys working in a
           team of exceptional developer who can help each other further their
-          careers. When I'm not fixing bugs and creating applications, you can
+          careers.
+        </h3>
+          <h3>
+          When I'm not fixing bugs and creating applications, you can
           find me either at the art gallery 🖼, any west end musical 🎭 or at a
           climbing centre 🧗🏽‍♀️
-        </h3>
+          </h3>
       </div>
       </div>
       <div className="links-bar">

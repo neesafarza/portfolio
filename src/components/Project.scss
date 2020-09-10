@@ -6,13 +6,15 @@
 
 
   .container {
-    border: solid black 5px;
     display: flex;
     width: 90%;
 
+
+
     .description {
       display: flex;
-      margin: 1rem;
+      margin: 4rem;
+      align-self: center;
     }
   
     img {
@@ -48,3 +50,18 @@
   }
   
 }
+
+.prod-Title {
+  font-size: 2rem;
+  text-decoration: none;
+  letter-spacing: 0.3rem;
+}
+
+.prod-Title:hover {
+  text-decoration: underline;
+  color: hotpink;
+  letter-spacing: 0.5rem;
+}
+
+
+
