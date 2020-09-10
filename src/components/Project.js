@@ -6,7 +6,7 @@ const Project = ({ description, image, align }) => {
       <div className="container">
         <div className="description">
           <div>
-            <a href={description.url} className="prod-Title">
+            <a href={description.url} target="blank" className="prod-Title">
               {description.title}
             </a>
             <p className="prod-description">{description.description}</p>
