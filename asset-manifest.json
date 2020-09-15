@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4087135c.chunk.css",
-    "main.js": "/portfolio/static/js/main.2d2b9fce.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2d2b9fce.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.34773950.chunk.css",
+    "main.js": "/portfolio/static/js/main.0583482d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0583482d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.5679633b.chunk.js": "/portfolio/static/js/2.5679633b.chunk.js",
-    "static/js/2.5679633b.chunk.js.map": "/portfolio/static/js/2.5679633b.chunk.js.map",
+    "static/js/2.d395529e.chunk.js": "/portfolio/static/js/2.d395529e.chunk.js",
+    "static/js/2.d395529e.chunk.js.map": "/portfolio/static/js/2.d395529e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.bacf20b5a8ffcec3a1b9dedf656238e7.js": "/portfolio/precache-manifest.bacf20b5a8ffcec3a1b9dedf656238e7.js",
+    "precache-manifest.1b65eaa3880c5e722dbd9de147a65038.js": "/portfolio/precache-manifest.1b65eaa3880c5e722dbd9de147a65038.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.4087135c.chunk.css.map": "/portfolio/static/css/main.4087135c.chunk.css.map",
-    "static/js/2.5679633b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5679633b.chunk.js.LICENSE.txt",
+    "static/css/main.34773950.chunk.css.map": "/portfolio/static/css/main.34773950.chunk.css.map",
+    "static/js/2.d395529e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d395529e.chunk.js.LICENSE.txt",
+    "static/js/pdf.worker.entry.2cc3561b.worker.js": "/portfolio/static/js/pdf.worker.entry.2cc3561b.worker.js",
+    "static/js/pdf.worker.entry.2cc3561b.worker.js.LICENSE.txt": "/portfolio/static/js/pdf.worker.entry.2cc3561b.worker.js.LICENSE.txt",
+    "static/js/pdf.worker.entry.2cc3561b.worker.js.map": "/portfolio/static/js/pdf.worker.entry.2cc3561b.worker.js.map",
+    "static/media/Cv.pdf": "/portfolio/static/media/Cv.cff156b7.pdf",
     "static/media/aliensinvasion.gif": "/portfolio/static/media/aliensinvasion.58bef328.gif",
     "static/media/angular.png": "/portfolio/static/media/angular.83d7fdcb.png",
     "static/media/furniss.gif": "/portfolio/static/media/furniss.21cf7648.gif",
@@ -26,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.5679633b.chunk.js",
-    "static/css/main.4087135c.chunk.css",
-    "static/js/main.2d2b9fce.chunk.js"
+    "static/js/2.d395529e.chunk.js",
+    "static/css/main.34773950.chunk.css",
+    "static/js/main.0583482d.chunk.js"
   ]
 }
